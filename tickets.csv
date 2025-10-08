@@ -1,0 +1,31 @@
+ticket_id,user_text,resolved_answer,intent,entities
+t001,I didn't get my stipend for last month.,"Stipend is paid on the last working day. If missing, create a Finance ticket with bank reference.",stipend_issue,{}
+t002,How do I submit a leave request?,Use HR portal → Leaves → New Request. Manager approval required.,leave_apply,{}
+t003,VPN keeps disconnecting. Any steps?,"Install GlobalProtect, sign in with company email, and ensure MFA. Contact IT if issues persist.",vpn_help,{}
+t004,Where can I see public holidays?,See HR portal → Calendar for official holidays.,holiday_info,{}
+t005,I forgot my email password.,"Reset at account.company.example/reset. If locked out, contact IT.",password_reset,{}
+t006,Can I work from home on Friday?,Remote work must be approved by your manager. Submit a request in HR portal 24 hours prior.,remote_work,{}
+t007,How to get access to the repository?,Request via IT ticket → Access Management; include your GitHub username and team.,repo_access,{}
+t008,What are my working hours?,Standard hours 9:00–18:00 with 1‑hour lunch; flexible start (8–10am) with manager agreement.,hours,{}
+t009,Who handles payroll issues?,Create a ticket in Finance Service Desk → Payroll.,finance_contact,{}
+t010,Do we get meal allowance?,"Yes, it is included in monthly stipend; no separate claims needed.",meal_allowance,{}
+t011,Need internship completion letter.,Request via HR portal → Documents → Completion Letter. 3–5 business days.,completion_letter,{}
+t012,What's the Wi‑Fi password?,Use SSID 'Company‑Corp'. Password rotates monthly—check IT portal.,wifi,{}
+t013,Where is the code of conduct?,HR portal → Policies → Code of Conduct.,policy,{}
+t014,I lost my ID card.,Report to Security and open 'Badge Replacement' with HR.,badge,{}
+t015,How to book a meeting room?,"Use Google Calendar → Rooms, pick available room and invite attendees.",rooms,{}
+t016,How to request software license for Figma?,"Open IT ticket → Software > New License; include name, version, justification.",software_license,{}
+t017,Who is my mentor?,Listed in welcome email and HR portal → My Team.,mentor,{}
+t018,How do I escalate an issue with my task?,"Escalate to mentor → team lead → HR partner. For emergencies, call Security Desk.",escalation,{}
+t019,What's the process for sick leave?,Notify manager and file Sick Leave in HR portal the same day. Doctor’s note after 2 days.,sick_leave,{}
+t020,Are taxi costs reimbursed?,Only for approved field visits; submit receipts within 10 days via Expenses.,reimburse,{}
+t021,Can I use my personal email?,"No, use company email for all work communication.",email_policy,{}
+t022,My VPN says MFA failed.,Approve MFA prompt and ensure correct device; contact IT if it persists.,vpn_mfa,{}
+t023,I joined today—what should I do first?,"Collect ID card, laptop, sign NDA, complete HR induction and IT setup.",onboarding_day1,{}
+t024,Where is project documentation kept?,Check team workspace in Confluence/Notion; ask mentor for link.,docs_location,{}
+t025,How do I change my bank account?,Update HR portal → Profile → Payroll. Changes after the 20th apply next month.,bank_update,{}
+t026,Do I need VPN in office?,"No, VPN is only required off‑site.",vpn_policy,{}
+t027,How can I check meal stipend details?,The fixed meal stipend is included in payroll; no separate claim.,meal_info,{}
+t028,My stipend was short.,Open Finance ticket → Payroll > Missing/Incorrect Payment. Include bank reference.,stipend_short,{}
+t029,How to see official holidays for my country?,HR portal → Calendar shows holidays by country/office.,holiday_country,{}
+t030,What are the core work hours?,9:00–18:00; flexible start 8–10am with manager approval.,hours_policy,{}

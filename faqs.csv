@@ -1,0 +1,31 @@
+id,question,answer,category,updated_at
+1,How do I apply for leave?,"Log into the HR portal → Leaves → New Request. Select leave type, attach document if needed, and submit for manager approval.",HR,2025-10-08
+2,How many casual leaves do I get?,"Interns receive 2 casual leave days per month, pro‑rated. Unused days do not carry over.",HR,2025-10-08
+3,Whom do I contact for HR issues?,"Email hr@company.example or open a ticket in the HR portal → 'General Query'. Office hours: Mon–Fri, 9am–5pm local time.",HR,2025-10-08
+4,Can I work remotely?,Remote work must be approved by your manager. Submit a 'Remote Work Request' in the HR portal at least 24 hours in advance.,HR,2025-10-08
+5,How do I get an internship completion letter?,"After your last day, request it via HR portal → Documents → 'Completion Letter'. Processing time: 3–5 business days.",HR,2025-10-08
+6,When is stipend paid?,Stipend is paid on the last working day of each month via bank transfer.,Finance,2025-10-08
+7,How do I update my bank details?,Update details in HR portal → Profile → Payroll. Changes submitted after the 20th apply to next month’s payroll.,Finance,2025-10-08
+8,Who do I contact about missing stipend?,Create a Finance ticket: Finance Service Desk → 'Payroll > Missing/Incorrect Payment'. Include bank reference if available.,Finance,2025-10-08
+9,Are transportation costs reimbursed?,Only for approved field visits. Submit receipts within 10 days via Expenses → 'Local Travel'.,Finance,2025-10-08
+10,Do interns get meal allowance?,Yes. A fixed meal stipend is included in your monthly payment. No separate claims required.,Finance,2025-10-08
+11,How do I get a laptop?,"New interns receive a laptop on Day 1 from IT. If not received, open an 'Onboarding → Equipment' ticket.",IT,2025-10-08
+12,How do I reset my email password?,"Go to account.company.example/reset and follow the prompts. If locked out, contact IT Helpdesk.",IT,2025-10-08
+13,VPN access steps,"Install GlobalProtect (or company VPN), sign in with your company email, and approve MFA. Use only when off‑site.",IT,2025-10-08
+14,How do I access GitHub/Repo?,Request repo access via IT ticket → 'Access Management'. Include your GitHub username and team.,IT,2025-10-08
+15,Wi‑Fi name and password,Use SSID 'Company‑Corp'. Password is rotated monthly and visible on the office notice board and IT portal.,IT,2025-10-08
+16,Working hours for interns,Standard hours: 9:00–18:00 with a 1‑hour lunch break. Flexible start (8–10am) with manager agreement.,Policy,2025-10-08
+17,Public holidays list,See HR portal → Calendar for official holidays by country/office.,Policy,2025-10-08
+18,Code of conduct,Follow company code of conduct in HR portal → Policies. Report violations anonymously via Ethics line.,Policy,2025-10-08
+19,Social media policy,Do not share confidential information. Identify yourself as an intern only if approved by your manager.,Policy,2025-10-08
+20,Security training,Complete mandatory security training within your first 7 days: Learning → 'Security 101'.,Policy,2025-10-08
+21,First day checklist,"Collect ID card, laptop, and sign NDA. Complete HR induction and IT setup.",Onboarding,2025-10-08
+22,How to book meeting rooms?,Use Google Calendar → 'Rooms'. Choose a room with available slots and add attendees.,Logistics,2025-10-08
+23,Where to find project documentation?,Check Confluence/Notion workspace for your team. Ask your mentor for the space link.,Onboarding,2025-10-08
+24,How to escalate an issue?,"Escalate to your mentor → team lead → HR partner. For emergencies, call Security Desk listed on your ID card.",Onboarding,2025-10-08
+25,How do I report sick leave?,Notify your manager on Slack/Email and file 'Sick Leave' in the HR portal the same day. Doctor’s note required after 2 days.,HR,2025-10-08
+26,Can I use personal email for work?,No. Use your company email for all work communication.,Policy,2025-10-08
+27,How to request software licenses?,"Open IT ticket → 'Software > New License'. Include software name, version, and justification.",IT,2025-10-08
+28,ID card lost—what to do?,Report to Security immediately and open a 'Badge Replacement' ticket with HR. Replacement may incur a fee.,Logistics,2025-10-08
+29,How to get mentor contact?,Your mentor is listed in the welcome email and HR portal → 'My Team'.,Onboarding,2025-10-08
+30,Where are internship FAQs kept?,This FAQ is mirrored in the HR portal and internal wiki. Use the search bar for latest updates.,Onboarding,2025-10-08
